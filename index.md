@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Bloggin' out my noggin': thezakalmanak
 ---
 
